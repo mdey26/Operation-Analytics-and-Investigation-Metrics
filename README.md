@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/mdey26/Operation-Analytics-Metric-Spike/blob/main/Untitled image.png" alt="Operation Analytics Project Banner" width="100%" />
-</p>
 
 # Operation-Analytics-and-Investigation-Metrics
 
@@ -37,3 +34,5 @@ By leveraging **Advanced SQL for data extraction & analysis** and **Advanced Exc
 | **Visualization** | Interactive Excel Dashboard with KPIs and Trend Charts |
 
 ---
+##SQL Script
+- To checkout the SQL Commands used refer to the SQL Script.
