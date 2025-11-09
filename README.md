@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/mdey26/Operation-Analytics-Metric-Spike/blob/main/Untitled image.png" alt="Operation Analytics Project Banner" width="100%" />
 </p>
